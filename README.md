@@ -109,6 +109,9 @@ Please cite the following paper [1].
 }
 ~~~~
 
+## Acknowledgements
+The annotation data was created by [IR-Advanced Linguistic Technologies Inc](https://ir-alt.co.jp/).
+
 ## Contact
 
 Shohei Higashiyama
